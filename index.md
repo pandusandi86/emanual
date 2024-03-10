@@ -15,8 +15,8 @@ header:
 {% capture index_notice_01 %}
 **Hi, welcome to the e-Manual!**
 - For general discussions, inquiries, and support for your projects, please visit User Community.
-- You can also find useful resources through the ROBOTIS Download Center, such as Drawings (2D/3D CAD), and Software.
-- To see tranlations as you browse the e-Manual, click the Google Translate icon <img src="/assets/images/icon_google.png"> placed on the right side of the page.
+- You can also find useful resources through the ROBOTISGOOD Download Center, such as Drawings (2D/3D CAD), and Software.
+- To see tranlations as you browse the e-Manual, click the Google Translate icon placed on the right side of the page.
 
 {% endcapture %}
 
@@ -52,7 +52,7 @@ header:
             <h2 class="archive__item-title">AUTONOMOUS GUIDED VEHICLE</h2>
 
             <div class="archive__item-excerpt">
-            ROBOTIS is a leader in humanoid robots, ROS (Robot Operating System) development, and open-source robotics.<br>
+            ROBOTISGOOD is a leader in humanoid robots, ROS (Robot Operating System) development, and open-source robotics.<br>
             Visit here to learn about our full robot platforms ideal for professionals, researchers, and universities.
             </div>
 
@@ -63,7 +63,7 @@ header:
 
           <div class="archive__item-teaser">
 
-              <img src="https://pandusandi86.github.io/emanual/assets/images/agv-amr-intro-image.jpg" alt="FMS">
+              <img src="https://pandusandi86.github.io/emanual/assets/images/5-0.jpg" alt="FMS">
 
           </div>
 
