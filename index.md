@@ -29,7 +29,7 @@ header:
 
     <div class="feature__item">
 
-          <a class="Show-me-whole-product" href="/docs/en/dxl/">
+
 
           <div class="archive__item-teaser">
               <img src="/assets/images/02_ksrovd2231915.jpg" alt="AMR">
@@ -41,12 +41,12 @@ header:
             Real-time feedback, modular design, and daisy-chainable.<br>
             Wide range of models and features available for easy implementation into any project.
             </div>
-            </a>
+
     </div>
 
     <div class="feature__item">
 
-        <a class="Show-me-whole-product" href="/docs/en/platform/">
+
           <div class="archive__item-teaser">
               <img src="/assets/images/agv-amr-intro-image.jpg" alt="AGV">
 
@@ -59,11 +59,11 @@ header:
             Visit here to learn about our full robot platforms ideal for professionals, researchers, and universities.
             </div>
 
-          </a>
+
     </div>
 
     <div class="feature__item">
-        <a class="Show-me-whole-product" href="/docs/en/edu/">
+
           <div class="archive__item-teaser">
 
               <img src="/assets/images/agv-amr-intro-image.jpg" alt="FMS">
@@ -77,7 +77,7 @@ header:
             Robot Edutainment Solutions for Home and Classrooms.
 
             </div>
-        </a>
+
     </div>
 
 </div>
