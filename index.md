@@ -10,7 +10,7 @@ header:
   intro:
 ---
 
-# ROBOTIS e-Manual
+# ROBOTISGOOD e-Manual
 
 {% capture index_notice_01 %}
 **Hi, welcome to the e-Manual!**
