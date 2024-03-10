@@ -32,7 +32,7 @@ header:
           <a class="Show-me-whole-product" href="/docs/en/dxl/">
 
           <div class="archive__item-teaser">
-              <img src="/assets/images/dxl/x/x540-series_product.png" alt="AMR">
+              <img src="/assets/images/02_ksrovd2231915.jpg" alt="AMR">
           </div>
 
             <h2 class="archive__item-title">AUTONOMOUS MOBILE ROBOT</h2>
@@ -48,7 +48,7 @@ header:
 
         <a class="Show-me-whole-product" href="/docs/en/platform/">
           <div class="archive__item-teaser">
-              <img src="/assets/platform.png" alt="AGV">
+              <img src="/assets/images/agv-amr-intro-image.jpg" alt="AGV">
 
           </div>
 
@@ -66,7 +66,7 @@ header:
         <a class="Show-me-whole-product" href="/docs/en/edu/">
           <div class="archive__item-teaser">
 
-              <img src="/assets/steam.png" alt="FMS">
+              <img src="/assets/images/agv-amr-intro-image.jpg" alt="FMS">
 
           </div>
 
