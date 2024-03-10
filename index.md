@@ -25,21 +25,6 @@ header:
 
 <div class="notice--success">{{ index_notice_01 | markdownify }}</div>
 
-<details>
-<summary><img src="/assets/images/icon_unfold.png" alt="Click Here" width="20" height="20">
-<b>Click to expand : Japanese (日本語) or Chinese (中文) e-Manual notices</b>
-</summary> 
-<ul>
-  <li> 日本語e-manualは現時点で編集されていません。 英語版ページをご参照下さい。</li>
-  <li> 目前, 还没有中文版. 请使用提供的Google翻译器 <img src="/assets/images/icon_google.png">. </li>
-  <li> 中文用户 (DREAM, STEM, MINI等产品) 请参考中文手册.</li>
-  <li> <a href="/docs/en/popup/dream1-2_example_cn/" class="popup">DREAM Lv2 下载示例文件</a> </li>
-  <li> <a href="/docs/en/popup/dream1-3_example_cn/" class="popup">DREAM Lv3 下载示例文件]</a> </li>
-  <li> <a href="/docs/en/popup/dream1-4_example_cn/" class="popup">DREAM Lv4 下载示例文件</a> </li>
-  <li> <a href="/docs/en/popup/mini_example_cn/" class="popup">MINI 下载</a> </li>
-</ul>
-</details>
-
 <div class="feature__wrapper">
 
     <div class="feature__item">
@@ -50,7 +35,7 @@ header:
               <img src="/assets/images/dxl/x/x540-series_product.png" alt="DYNAMIXEL">
           </div>
 
-            <h2 class="archive__item-title">DYNAMIXEL</h2>
+            <h2 class="archive__item-title">AUTONOMOUS MOBILE ROBOT</h2>
             <div class="archive__item-excerpt">
             The all-in-one smart servo solution for all your robot needs.<br>
             Real-time feedback, modular design, and daisy-chainable.<br>
@@ -67,7 +52,7 @@ header:
 
           </div>
 
-            <h2 class="archive__item-title">DYNAMIXEL SYSTEM</h2>
+            <h2 class="archive__item-title">AUTONOMOUS GUIDED VEHICLE</h2>
 
             <div class="archive__item-excerpt">
             ROBOTIS is a leader in humanoid robots, ROS (Robot Operating System) development, and open-source robotics.<br>
@@ -85,60 +70,12 @@ header:
 
           </div>
 
-            <h2 class="archive__item-title">EDUCATIONAL KITS</h2>
+            <h2 class="archive__item-title">FLEET MANAGEMENT SYSTEM</h2>
 
             <div class="archive__item-excerpt">
             STEAM stands for 'Science, Technology, Engineering, Art, Math.<br>
             Robot Edutainment Solutions for Home and Classrooms.
 
-            </div>
-        </a>
-    </div>
-
-    <div class="feature__item">
-
-
-        <a class="Show-me-whole-product" href="/docs/en/software/">
-          <div class="archive__item-teaser">
-              <img src="/assets/software.png" alt="SOFTWARE">
-
-          </div>
-
-            <h2 class="archive__item-title">SOFTWARE</h2>
-
-            <div class="archive__item-excerpt">
-            ROBOTIS offers free software and open source programming libraries for all DYNAMIXEL hardware and kit products. Programming libraries free to use under the MIT license.
-            </div>
-        </a>
-    </div>
-
-    <div class="feature__item">
-
-        <a class="Show-me-whole-product" href="/docs/en/parts/">
-
-          <div class="archive__item-teaser">
-              <img src="/assets/parts.png" alt="PARTS">
-          </div>
-
-            <h2 class="archive__item-title">PARTS</h2>
-
-            <div class="archive__item-excerpt">
-            Robot controllers, USB interfaces, wireless devices, sensors and other products by ROBOTIS. <br>
-            Visit here to learn more about specific controllers, parts, and accessories.
-            </div>
-        </a>
-    </div>
-
-    <div class="feature__item">
-        <a class="Show-me-whole-product" href="/docs/en/faq/faq_dynamixel/">
-          <div class="archive__item-teaser">
-              <img src="/assets/faq.png" alt="FAQ">
-          </div>
-
-            <h2 class="archive__item-title">FAQ</h2>
-
-            <div class="archive__item-excerpt">
-              First-time user, or not sure where to go? Check out the FAQ for frequently-asked questions and other useful information when using DYNAMIXELs or other ROBOTIS products and kits.
             </div>
         </a>
     </div>
