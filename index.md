@@ -29,10 +29,9 @@ header:
 
 
           <div class="archive__item-teaser">
-              <img src="/assets/images/02_ksrovd2231915.jpg" alt="AMR">
+              <img src="https://pandusandi86.github.io/emanual/assets/images/02_ksrovd2231915.jpg" alt="AMR">
           </div>
 
-            **AUTONOMOUS MOBILE ROBOT**
             <h2 class="archive__item-title">AUTONOMOUS MOBILE ROBOT</h2>
             <div class="archive__item-excerpt">
             The all-in-one smart servo solution for all your robot needs.<br>
@@ -46,7 +45,7 @@ header:
 
 
           <div class="archive__item-teaser">
-              <img src="/assets/images/agv-amr-intro-image.jpg" alt="AGV">
+              <img src="https://pandusandi86.github.io/emanual/assets/images/agv-amr-intro-image.jpg" alt="AGV">
 
           </div>
 
@@ -64,7 +63,7 @@ header:
 
           <div class="archive__item-teaser">
 
-              <img src="/assets/images/agv-amr-intro-image.jpg" alt="FMS">
+              <img src="https://pandusandi86.github.io/emanual/assets/images/agv-amr-intro-image.jpg" alt="FMS">
 
           </div>
 
